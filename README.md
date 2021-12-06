@@ -1,6 +1,11 @@
-# ArcaneGAN
-ArcaneGAN
-ArcaneGAN v0.1 by [Alex Spirin](https://twitter.com/devdef)
+# ArcaneGAN by [Alex Spirin](https://twitter.com/devdef)
+
+## ArcaneGAN v0.2
+A sneak peek while it's still in progress.
+![image](https://user-images.githubusercontent.com/11751592/144801598-3196be69-c462-4637-a267-f246a4460204.png)
+
+
+## ArcaneGAN v0.1 
 
 This is a proof of concept release. 
 The model is in beta (which means it's beta than nothin')
