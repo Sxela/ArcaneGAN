@@ -1,6 +1,6 @@
 # ArcaneGAN
 ArcaneGAN
-ArcaneGAN v0.1 by Alex Spirin
+ArcaneGAN v0.1 by [Alex Spirin](https://twitter.com/devdef)
 This is a proof of concept release. The model is in beta (which means it's beta than nothin')
 
 Here are some image pairs. I've specifically picked various images to see how the model performs in the wild, not on aligned and cropped faces.
