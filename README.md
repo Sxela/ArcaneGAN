@@ -5,6 +5,12 @@
 **Changelog**
 * 2021-12-09 Thanks to [ak92501](https://twitter.com/ak92501) we now have a [huggingface demo](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
 
+## ArcaneGAN v0.3 
+
+https://user-images.githubusercontent.com/11751592/145682185-363e7d07-54dd-4f39-ba96-4b71a2605bf2.mp4
+
+
+
 ## ArcaneGAN v0.2
 The release is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.2)
 ![image](https://user-images.githubusercontent.com/11751592/144801598-3196be69-c462-4637-a267-f246a4460204.png)
