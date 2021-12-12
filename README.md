@@ -1,9 +1,12 @@
 # ArcaneGAN by [Alex Spirin](https://twitter.com/devdef)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=sxela_arcanegan_repo)
 
 **Changelog**
+* 2021-12-12 ArcaneGAN v0.3 is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.3)
 * 2021-12-09 Thanks to [ak92501](https://twitter.com/ak92501) we now have a [huggingface demo](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
+
+
 
 ## ArcaneGAN v0.3 
 
@@ -17,12 +20,17 @@ https://user-images.githubusercontent.com/11751592/145702737-c02b8b00-ad30-4358-
 https://user-images.githubusercontent.com/11751592/145702740-afd3377d-d117-467d-96ca-045e25d85ac6.mp4
 
 
+# Image samples
 
+![arcaneganv03](https://user-images.githubusercontent.com/11751592/145726820-19c77a0e-f5cf-4da8-98c1-7c7d59fa3dfa.jpg)
+
+
+Faces were enhanced via [GPEN](https://github.com/yangxy/GPE) before applying the ArcaneGAN v0.3 filter.
 
 
 
 ## ArcaneGAN v0.2
-The release is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.2)
+The release is [here](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.2)
 ![image](https://user-images.githubusercontent.com/11751592/144801598-3196be69-c462-4637-a267-f246a4460204.png)
 ![photo_2021-12-04_08-05-34](https://user-images.githubusercontent.com/11751592/144984175-0b063911-4654-499d-a98c-d2e12622dd31.jpg)
 ![photo_2021-12-04_07-23-17](https://user-images.githubusercontent.com/11751592/144984187-d1679d94-dcd4-43fc-9626-869380410a9b.jpg)
