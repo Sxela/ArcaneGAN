@@ -7,7 +7,17 @@
 
 ## ArcaneGAN v0.3 
 
-https://user-images.githubusercontent.com/11751592/145682185-363e7d07-54dd-4f39-ba96-4b71a2605bf2.mp4
+Videos processed by the huggingface video inference colab.
+
+
+https://user-images.githubusercontent.com/11751592/145702737-c02b8b00-ad30-4358-98bf-97c8ad7fefdf.mp4
+
+
+
+https://user-images.githubusercontent.com/11751592/145702740-afd3377d-d117-467d-96ca-045e25d85ac6.mp4
+
+
+
 
 
 
@@ -17,19 +27,6 @@ The release is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.2)
 ![photo_2021-12-04_08-05-34](https://user-images.githubusercontent.com/11751592/144984175-0b063911-4654-499d-a98c-d2e12622dd31.jpg)
 ![photo_2021-12-04_07-23-17](https://user-images.githubusercontent.com/11751592/144984187-d1679d94-dcd4-43fc-9626-869380410a9b.jpg)
 ![weewq](https://user-images.githubusercontent.com/11751592/144984243-6387263b-0827-478a-ac1e-1ee93f9ddec6.jpg)
-
-
-## ArcaneGAN v0.1 
-
-This is a proof of concept release. 
-The model is in beta (which means it's beta than nothin')
-
-Here are some image pairs. I've specifically picked various images to see how the model performs in the wild, not on aligned and cropped faces.
-
-![0_256_](https://user-images.githubusercontent.com/11751592/144793668-be43ba18-a8c3-4b37-ba95-fc7bf56c5648.jpg)
-![258c27bcb658a86765361c1faca7b749fa3a36aaf07e975b408281c0a9c76513](https://user-images.githubusercontent.com/11751592/144793712-11f7438f-0f14-4a50-bae6-673a1461ba71.jpg)
-![e42](https://user-images.githubusercontent.com/11751592/144793847-121d6c17-f2a2-484d-a2ed-35f53f27197c.jpg)
-![ewewe](https://user-images.githubusercontent.com/11751592/144793886-e3063e9c-fcb7-4570-82cb-0bcc3bc42b58.jpg)
 
 ## Implementation Details 
 
