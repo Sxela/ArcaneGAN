@@ -3,6 +3,7 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=sxela_arcanegan_repo)
 
 **Changelog**
+* 2021-12-14 Added [Video demo](https://huggingface.co/spaces/sxela/ArcaneGAN-video) on huggingface
 * 2021-12-12 ArcaneGAN v0.3 is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.3)
 * 2021-12-09 Thanks to [ak92501](https://twitter.com/ak92501) we now have a [huggingface demo](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
 
