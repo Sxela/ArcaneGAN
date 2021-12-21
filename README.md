@@ -7,6 +7,33 @@
 * 2021-12-12 ArcaneGAN v0.3 is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.3)
 * 2021-12-09 Thanks to [ak92501](https://twitter.com/ak92501) we now have a [huggingface demo](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
 
+## ArcaneGAN v0.4
+
+The main differences are: 
+- lighter styling (closer to original input)
+- sharper result
+- happier faces 
+- reduced childish eyes effect
+- reduced stubble on feminine faces 
+- increased temporal stability on videos
+- reduced mouth\teeth artifacts
+
+### Image samples 
+v0.3 vs v0.4
+
+![v3-4](https://user-images.githubusercontent.com/11751592/146965930-f66dfd00-e55b-4b84-be83-aed925c08e3a.jpg)
+
+### Video samples
+
+
+https://user-images.githubusercontent.com/11751592/146966428-f4e27929-19dd-423f-a772-8aee709d2116.mp4
+
+
+
+https://user-images.githubusercontent.com/11751592/146966462-6511998e-77f5-4fd2-8ad9-5709bf0cd172.mp4
+
+
+
 
 
 ## ArcaneGAN v0.3 
