@@ -66,7 +66,10 @@ The release is [here](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.2)
 
 ## Implementation Details 
 
-It does something, but not much at the moment. 
+The model is a pytroch *.jit of a fastai v1 flavored u-net trained on a paired dataset, generated via a blended stylegan2.
 
-The model is a pytroch *.jit of a fastai v1 flavored [u-net](https://fastai1.fast.ai/vision.models.unet.html) trained on a paired dataset, generated via a blended stylegan2. You can see the blending colab I've used [here](https://github.com/Sxela/stylegan3_blending). 
+Model architecture: [fastai v1 u-net](https://fastai1.fast.ai/vision.models.unet.html)
+Stylegan2 implementation used: [stylegan3 repo](https://github.com/NVlabs/stylegan3)
+Stylegan blending example: [stylegan3 blending](https://github.com/Sxela/stylegan3_blending)
+Paired image2image training: [fastai v1 superres notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres-gan.ipynb)
 
