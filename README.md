@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/11751592/145702740-afd3377d-d117-467d-
 ![arcaneganv03](https://user-images.githubusercontent.com/11751592/145726820-19c77a0e-f5cf-4da8-98c1-7c7d59fa3dfa.jpg)
 
 
-Faces were enhanced via [GPEN](https://github.com/yangxy/GPE) before applying the ArcaneGAN v0.3 filter.
+Faces were enhanced via [GPEN](https://github.com/yangxy/GPEN) before applying the ArcaneGAN v0.3 filter.
 
 
 
