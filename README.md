@@ -7,6 +7,7 @@ Videos [![Colab for videos](https://colab.research.google.com/assets/colab-badge
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sxela_arcanegan_repo)
 
 **Changelog**
+* 2022-04-04 Added a new image2image model training [url](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
 * 2021-12-27 Added [colab for videos](https://colab.research.google.com/drive/1ohKCiOwZrhM3pza4L93AHAfMkIkJ5YQF)
 * 2021-12-25 ArcaneGAN v0.4 is [live](https://github.com/Sxela/ArcaneGAN/releases/tag/v0.4)
 * 2021-12-14 Added [Video demo](https://huggingface.co/spaces/sxela/ArcaneGAN-video) on huggingface
@@ -77,5 +78,5 @@ The model is a pytroch *.jit of a fastai v1 flavored u-net trained on a paired d
 - Model architecture: [fastai v1 u-net](https://fastai1.fast.ai/vision.models.unet.html)
 - Stylegan2 implementation used: [stylegan3 repo](https://github.com/NVlabs/stylegan3)
 - Stylegan blending example: [stylegan3 blending](https://github.com/Sxela/stylegan3_blending)
-- Paired image2image training: [fastai v1 superres notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres-gan.ipynb)
+- Paired image2image training: [fastai v1 superres notebook](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
 
