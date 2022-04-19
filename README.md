@@ -6,6 +6,13 @@ Videos [![Colab for videos](https://colab.research.google.com/assets/colab-badge
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sxela_arcanegan_repo)
 
+If you like what I'm doing you can:
+- follow me on [twitter](https://twitter.com/devdef)
+- check my collections at [opensea](https://opensea.io/collection/ai-scrapers)
+- tip me on [patreon](https://www.patreon.com/sxela) 
+
+Thank you for being awesome!
+
 **Changelog**
 * 2022-04-04 Added a new image2image model training [url](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
 * 2021-12-27 Added [colab for videos](https://colab.research.google.com/drive/1ohKCiOwZrhM3pza4L93AHAfMkIkJ5YQF)
