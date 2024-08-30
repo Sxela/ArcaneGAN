@@ -1,5 +1,16 @@
 # ArcaneGAN by [Alex Spirin](https://twitter.com/devdef)
 
+[![][github-release-shield]][github-release-link]
+[![][github-release-date-shield]][github-release-link]
+[![][github-downloads-shield]][github-downloads-link]
+
+
+[github-release-shield]: https://img.shields.io/github/v/release/Sxela/ArcaneGAN?style=flat&sort=semver
+[github-release-link]: https://github.com/Sxela/ArcaneGAN/releases
+[github-release-date-shield]: https://img.shields.io/github/release-date/Sxela/ArcaneGAN?style=flat
+[github-downloads-shield]: https://img.shields.io/github/downloads/Sxela/ArcaneGAN/total?style=flat
+[github-downloads-link]: https://github.com/Sxela/ArcaneGAN/releases
+
 Photos [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W)
 
 Videos [![Colab for videos](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ohKCiOwZrhM3pza4L93AHAfMkIkJ5YQF)
